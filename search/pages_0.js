@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['array_0',['Array',['../d9/d41/md_data_structures_array__r_e_a_d_m_e.html',1,'']]]
+  ['_5fblank_20exercism_20io_20a_0',['Sample solutions for &lt;a href=&quot;http://exercism.io/&quot; target=&quot;_blank&quot; &gt;exercism.io&lt;/a&gt;',['../de/dd4/md_exercism_2_r_e_a_d_m_e.html',1,'']]]
 ];
